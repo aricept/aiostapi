@@ -1,8 +1,8 @@
 ============
-stapi-python
+aiostapi
 ============
 
-A python client for the Star Trek API http://stapi.co/
+An AsynIO python client for the Star Trek API http://stapi.co/ using aiohttp
 
 Installation
 ------------
