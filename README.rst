@@ -2,7 +2,7 @@
 aiostapi
 ============
 
-An AsynIO python client for the Star Trek API http://stapi.co/ using aiohttp
+An AsyncIO python client for the Star Trek API http://stapi.co/ using aiohttp
 
 Installation
 ------------
